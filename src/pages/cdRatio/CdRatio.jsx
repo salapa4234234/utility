@@ -17,16 +17,16 @@ const CdRatio = () => {
         <Link to="/npl-calculator" className="grid-item"><img src={calculator2} alt="" /><div className='grid-title'>NPL Calculator</div></Link>
         <Link to="/fdcalculator" className="grid-item"><img src={calculator3} alt="" /><div className='grid-title'>Fd Calculator</div></Link>
         <Link to="/loancalculator" className="grid-item"><img src={calculator4} alt="" /><div className='grid-title'>Loan Calculator</div></Link>
-        <div className="grid-item"><img src={calculator5} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator1} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator1} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator1} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator2} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator3} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator5} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator3} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator2} alt="" /><div className='grid-title'>Cd Ratio</div></div>
-        <div className="grid-item"><img src={calculator1} alt="" /><div className='grid-title'>Cd Ratio</div></div>
+        <div className="grid-item"><img src={calculator5} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator1} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator1} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator1} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator2} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator3} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator5} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator3} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator2} alt="" /><div className='grid-title'>Comming soon</div></div>
+        <div className="grid-item"><img src={calculator1} alt="" /><div className='grid-title'>Comming soon</div></div>
       </div>
 </Layout>
     

@@ -1,0 +1,80 @@
+.calculator-section {
+    padding: 1rem 0px;
+  }
+  
+  .form-group {
+    /* border: 1.5px solid rgb(10, 160, 10);  */  
+    width: 100%; 
+    border-radius: 5px;
+    margin: 2.5rem 0px;
+    position: relative;
+    transition: all 0.45s ease;
+  }
+ 
+  .form-control {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 1.1rem 2rem ;
+    background-color:  #E8F0FE;
+
+  }
+  
+  .form-group label {
+    position: absolute;
+    top: -1.9rem;
+    left: 0rem;
+    background-color: transparent;
+    padding: 0 0.2rem;
+    transition: all 0.2s;
+    pointer-events: none;
+    font-size: 1.4rem;
+    font-weight:500 ;
+color:rgb(4, 145, 4) ;
+
+  }
+  
+  .form-group input:focus {
+    /* outline: 1px solid rgb(10, 160, 10); */
+    border: 1px solid rgb(10, 160, 10);
+    border-radius: 5px;
+  }
+  
+ .btn{
+    padding: 0.8rem 2rem ;
+    background-color:rgb(10, 160, 10) ;
+    color: #ffff;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.45s ease;
+ }
+  .btn:hover{
+    background-color:rgb(20, 138, 20) ;
+    color: #ffff;
+  }
+  .calculator-wraper{
+    background-color: rgb(217, 236, 217);
+    padding:2rem;
+    max-width: 600px;
+    margin: 0 auto;
+    height: 100%;
+    border-radius: 10px;
+  }
+  .total{
+    padding: 2rem;
+    text-align: center;
+  }
+  .total h3{
+    font-size: 2rem;
+    font-weight: 500;
+    color:rgb(4, 145, 4) ;
+  }
+  .description{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color:rgb(4, 145, 4) ;
+  }

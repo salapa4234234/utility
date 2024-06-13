@@ -47,6 +47,7 @@ const LoanCalculator = () => {
     <div className='calculator-section'>
       <Layout>
         <div className="calculator-wraper">
+        <h4>Loan Calculator</h4>
           <form action="" onSubmit={calculateCdRatio}>
             <div className="form-group">
               <label htmlFor="amount">Loan Amount</label>

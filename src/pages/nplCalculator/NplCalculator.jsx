@@ -33,6 +33,7 @@ const NplCalculator = () => {
 <div className='calculator-section'>
       <Layout>
         <div className="calculator-wraper">
+        <h4>NPL Calculator</h4>
           <form action="" onSubmit={calculateCdRatio}>
             <div className="form-group">
               <label htmlFor="amount">Total Loan</label>

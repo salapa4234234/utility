@@ -36,6 +36,7 @@ const FdCalculator = () => {
     <div className='calculator-section'>
       <Layout>
         <div className="calculator-wraper">
+        <h4>Fixed Deposit Calculator</h4>
           <form action="" onSubmit={calculateCdRatio}>
             <div className="form-group">
               <label htmlFor="amount">Total Amount</label>

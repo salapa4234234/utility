@@ -64,6 +64,12 @@ color:rgb(4, 145, 4) ;
     height: 100%;
     border-radius: 10px;
   }
+  .calculator-wraper h4{
+    font-size: 1.6rem;
+    font-weight: 600;
+    color:rgb(4, 145, 4) ;
+    text-align: center;
+  }
   .total{
     padding: 2rem;
     text-align: center;
